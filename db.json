@@ -1,0 +1,152 @@
+{
+  "users": [
+    {
+      "username": "2wssdw",
+      "email": "sumith@gmail.com",
+      "password": "udiw",
+      "id": 1
+    },
+    {
+      "username": "ygy",
+      "email": "Sabiq@gail.com",
+      "password": "nki",
+      "id": 2
+    },
+    {
+      "username": "sabiq",
+      "email": "Sabique@gmail.com",
+      "password": "0000",
+      "id": 3
+    },
+    {
+      "username": "qqq",
+      "email": "qqq@gmail.com",
+      "password": "1111",
+      "id": 4
+    }
+  ],
+  "video": [
+    {
+      "videoID": "1",
+      "videoTitle": "heeriye",
+      "imageUrl": "https://static.toiimg.com/thumb/msid-112028116,width-400,resizemode-4/112028116.jpg",
+      "VideoUrl": "https://www.youtube.com/embed/RLzC55ai0eo?si=YMfZdFOa_XiwxNRS",
+      "id": 7
+    },
+    {
+      "videoID": "6",
+      "videoTitle": "React Tutorial",
+      "imageUrl": "https://i.ytimg.com/vi/QFaFIcGhPoM/hq720.jpg?sqp=-oaymwEXCK4FEIIDSFryq4qpAwkIARUAAIhCGAE=&rs=AOn4CLBZa5tGavJn6zJNHJgY02LPGuNecw",
+      "VideoUrl": "https://www.youtube.com/embed/SqcY0GlETPk?si=YMfZdFOa_XiwxNRS&autoplay=1",
+      "id": 8
+    },
+    {
+      "videoID": "6",
+      "videoTitle": "Angular",
+      "imageUrl": "https://i.ytimg.com/vi/JWhRMyyF7nc/maxresdefault.jpg",
+      "VideoUrl": "https://www.youtube.com/embed/JWhRMyyF7nc?si=YMfZdFOa_XiwxNRS&autoplay=1",
+      "id": 9
+    }
+  ],
+  "category": [
+    {
+      "categoryId": "1",
+      "title": "Videos",
+      "video": [
+        {
+          "videoID": "6",
+          "videoTitle": "React Tutorial",
+          "imageUrl": "https://i.ytimg.com/vi/QFaFIcGhPoM/hq720.jpg?sqp=-oaymwEXCK4FEIIDSFryq4qpAwkIARUAAIhCGAE=&rs=AOn4CLBZa5tGavJn6zJNHJgY02LPGuNecw",
+          "VideoUrl": "https://www.youtube.com/embed/SqcY0GlETPk?si=YMfZdFOa_XiwxNRS&autoplay=1",
+          "id": 8
+        },
+        {
+          "videoID": "6",
+          "videoTitle": "Angular",
+          "imageUrl": "https://i.ytimg.com/vi/JWhRMyyF7nc/maxresdefault.jpg",
+          "VideoUrl": "https://www.youtube.com/embed/JWhRMyyF7nc?si=YMfZdFOa_XiwxNRS&autoplay=1",
+          "id": 9
+        },
+        {
+          "videoID": "1",
+          "videoTitle": "heeriye",
+          "imageUrl": "https://static.toiimg.com/thumb/msid-112028116,width-400,resizemode-4/112028116.jpg",
+          "VideoUrl": "https://www.youtube.com/embed/RLzC55ai0eo?si=YMfZdFOa_XiwxNRS",
+          "id": 7
+        }
+      ],
+      "id": 1
+    },
+    {
+      "categoryId": "1",
+      "title": "Music",
+      "video": [
+        {
+          "videoID": "6",
+          "videoTitle": "Angular",
+          "imageUrl": "https://i.ytimg.com/vi/JWhRMyyF7nc/maxresdefault.jpg",
+          "VideoUrl": "https://www.youtube.com/embed/JWhRMyyF7nc?si=YMfZdFOa_XiwxNRS&autoplay=1",
+          "id": 9
+        }
+      ],
+      "id": 2
+    },
+    {
+      "categoryId": "3",
+      "title": "heeriye",
+      "video": [],
+      "id": 3
+    }
+  ],
+  "history": [
+    {
+      "videoId": 9,
+      "title": "Angular",
+      "url": "https://www.youtube.com/embed/JWhRMyyF7nc?si=YMfZdFOa_XiwxNRS&autoplay=1",
+      "datetime": "2024-09-03T04:47:17.737Z",
+      "id": 1
+    },
+    {
+      "videoId": 7,
+      "title": "heeriye",
+      "url": "https://www.youtube.com/embed/RLzC55ai0eo?si=YMfZdFOa_XiwxNRS",
+      "datetime": "2024-09-03T05:15:31.902Z",
+      "id": 2
+    },
+    {
+      "videoId": 8,
+      "title": "React Tutorial",
+      "url": "https://www.youtube.com/embed/SqcY0GlETPk?si=YMfZdFOa_XiwxNRS&autoplay=1",
+      "datetime": "2024-09-03T05:18:48.983Z",
+      "id": 3
+    },
+    {
+      "videoId": 8,
+      "title": "React Tutorial",
+      "url": "https://www.youtube.com/embed/SqcY0GlETPk?si=YMfZdFOa_XiwxNRS&autoplay=1",
+      "datetime": "2024-09-03T05:19:01.790Z",
+      "id": 4
+    },
+    {
+      "videoId": 7,
+      "title": "heeriye",
+      "url": "https://www.youtube.com/embed/RLzC55ai0eo?si=YMfZdFOa_XiwxNRS",
+      "datetime": "2024-09-03T05:25:42.541Z",
+      "id": 5
+    },
+    {
+      "videoId": 8,
+      "title": "React Tutorial",
+      "url": "https://www.youtube.com/embed/SqcY0GlETPk?si=YMfZdFOa_XiwxNRS&autoplay=1",
+      "datetime": "2024-09-03T05:25:51.107Z",
+      "id": 6
+    },
+    {
+      "videoId": 7,
+      "title": "heeriye",
+      "url": "https://www.youtube.com/embed/RLzC55ai0eo?si=YMfZdFOa_XiwxNRS",
+      "datetime": "2024-09-05T05:43:01.242Z",
+      "id": 7
+    }
+  ]
+}
